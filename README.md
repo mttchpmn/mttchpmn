@@ -1,7 +1,6 @@
 ### Matt Chapman (mttchpmn)
 
-- 😄 Full Stack Software Engineer specialising in React, Node, and Typescript.
-- 🔭Currently working as a NodeJS Engineer at Clubware, NZ.
+- 😄 Senior Software Engineer at FirstAML, Auckland, NZ.
 
 - 📫 matt@mattchapman.io
 
