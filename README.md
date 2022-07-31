@@ -34,6 +34,7 @@ Finished, WIP, and example applications, APIs, and products.
 
 CLIs, helpers and whatnot.
 
+- [SchemaMapper - CLI tool for generating textual and visual diagrams of database schema](https://github.com/mttchpmn/SchemaMapper)
 - [Bolt - Rust based terminal text editor](http://github.com/mttchpmn/bolt)
 - [Rust PostGres helper](http://github.com/mttchpmn/pogo)
 - [CLI Media manager (for Plex servers)](http://github.com/mttchpmn/medman-cli)
